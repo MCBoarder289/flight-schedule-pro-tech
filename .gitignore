@@ -2,5 +2,6 @@
 .DS_Store
 .python-version
 
+.ipynb_checkpoints/
 exploration.ipynb
 
